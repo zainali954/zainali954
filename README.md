@@ -1,20 +1,110 @@
-<h1 align="center">Hi 👋, I'm Zain Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+# Hi there, I'm Zain Ali! 👋
 
-- 🔭 I’m currently working on **Animated Portfoio**
 
-- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://zainportfolio.atwebpages.com/](http://zainportfolio.atwebpages.com/)
+I'm a passionate and self-taught **Full-Stack Developer** with a strong foundation in the **MERN (MongoDB, Express.js, React.js, Node.js)** stack. I love building intuitive and efficient web applications that solve real-world problems. I'm a quick learner, always eager to explore new technologies and refine my development skills.
 
-- 📫 How to reach me **105zainali@gmail.com**
+Though I’m currently seeking my first professional role, I’ve built solid, real-world projects that showcase my ability to think, design, and develop like a professional.
 
-- ⚡ Fun fact **I think I can do more**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 My Skills
+
+- **Frontend:** React.js, Redux, Context API, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive Design
+- **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication
+- **Database:** MongoDB (with Mongoose)
+- **Version Control:** Git & GitHub
+- **Tools & Platforms:** VS Code, Postman, npm/yarn, Vercel
+- **Others:** Problem Solving, API Integration, Clean Code Practices
+
+---
+
+## 🛠️ My Projects
+
+### 1. 🛍️ [Snapsack - E-commerce Platform](https://snapsack-user-frontend.vercel.app/)
+
+**Description:**  
+A fully functional e-commerce web app where users can browse products, manage their cart, and place orders. Admins can manage products, users, and view order stats.
+
+**Key Features:**
+- User Authentication (Signup/Login)
+- Product Listings with Filtering & Search
+- Cart and Wishlist Functionality
+- Order Placement & History
+- Admin Dashboard for Product & Order Management
+- Clean UI with Tailwind CSS
+
+**Tech Stack:**  
+MERN Stack, Redux, Tailwind CSS, JWT
+
+**Live Demo:** [Snapsack](https://snapsack-user-frontend.vercel.app/)  
+**GitHub:** [GitHub Repo](https://github.com/zainali954/snapsack)
+
+<!-- Screenshots -->
+<!-- 
+<img src="link_to_screenshot1.png" alt="Snapsack Screenshot" width="400"/>
+-->
+
+---
+
+### 2. ✅ [Tickure - Task Management App](https://tickure.vercel.app/)
+
+**Description:**  
+A powerful personal task management tool designed to organize your tasks using categories, labels, priorities, and more.
+
+**Key Features:**
+- User Authentication & Authorization
+- Task Creation with Subtasks, Priorities, Due Dates
+- Category and Label-Based Filtering
+- Calendar View and Dashboard Stats
+- Fully Responsive UI with Dark Mode Support
+- Task Insights & Smart Filters
+
+**Tech Stack:**  
+MERN Stack, Redux , Tailwind CSS, JWT
+
+**Live Demo:** [Tickure](https://tickure.vercel.app/)  
+**GitHub:** [GitHub Repo](https://github.com/zainali954/tickure)
+
+<!-- Screenshots -->
+<!-- 
+<img src="link_to_tickure_screenshot.png" alt="Tickure Screenshot" width="400"/>
+-->
+
+---
+
+## 🌱 I'm Currently Learning
+
+- TypeScript
+- Next.js
+
+---
+
+## 🎯 Goals for 2025
+
+- Land my first Full-Stack Developer role 🚀  
+- Contribute to meaningful open-source projects  
+- Build more scalable, real-world applications  
+- Dive deeper into DevOps and cloud deployments
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Zain Ali](https://www.linkedin.com/in/zain-ali-1a49b2361/)
+- **Email:** zainali.portfolio@gmail.com
+- **Portfolio:** [iamzainali.vercel.app](https://iamzainali.vercel.app/)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zainali954&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Zain's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainali954&layout=compact&theme=radical&hide_border=true" alt="Zain's Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
+Thanks for stopping by! Looking forward to connecting. 😊
